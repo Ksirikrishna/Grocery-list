@@ -1,2 +1,5 @@
-# Grocery-list
-list of items required
+Electronics
+Stationery
+cooking
+Garden
+school supplies
